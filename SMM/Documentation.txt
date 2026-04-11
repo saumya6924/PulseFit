@@ -1,0 +1,18 @@
+Name - Saumya Bhatiya
+Enrollment No. - 24004501210030
+Class - IMCA Sem-4 Div-B
+Project Name - Pulse Fit
+Pages created - 
+	1.Login page
+	2.Home Page
+	3.Product Page
+	4.Product-Details Page
+	5.Marketing Page
+	6.Blog Page
+	7.Digital-Marketing Page
+	8.smartwatch-health-blog
+	9.sleep-recovery-blog
+I have created a website named Pulse Fit. PulseFit Smartwatch helps you monitor fitness, sleep, heart rate, and daily activity with precision. PulseFit combines smart technology with a modern design to deliver accurate health insights in a simple and easy-to-use way. It is perfect for beginners as well as fitness enthusiasts.
+Parents ContactNo.
+Father - 9426088508
+Mother - 7016571126
